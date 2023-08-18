@@ -3,6 +3,7 @@
 The site is a simple but detailed oriented weather service that provides **weather** information, like temperature *(minimum and maximum)*, weather decription and wind directions as well as it's speed.
 
 ---
+https://github.com/Maxime-Bakunzi/weather-checking/assets/122269412/48632129-8669-417c-9930-2c41e477948b
 
 ## Details of the site
 
