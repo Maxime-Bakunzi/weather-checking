@@ -62,6 +62,8 @@ function getData(value) {
 
 }
 ```
+
+> If you want to access the site directly [https://maxime-bakunzi.github.io/weather-checking/](https://maxime-bakunzi.github.io/weather-checking/)
 ---
 ### Author
 
